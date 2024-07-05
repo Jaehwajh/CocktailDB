@@ -41,6 +41,8 @@ I decided to create this small application to better understand API fetch reques
 
 ## Future Implementations
 <p>
+  
   - Add more search/filter options.
+  
   - Use a different database that is maintained more frequently.
 </p>
