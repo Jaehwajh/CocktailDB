@@ -43,7 +43,7 @@ export default function DrinkSearch() {
             className='bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-gray-400 focus:outline-none focus:ring-0 focus:border-gray-600 peer w-[16rem] h-[3rem] text-black mx-auto lg:my-auto lg:mx-0'
             value={drink} 
             onChange={handleInputChange} 
-            placeholder="Enter an alcoholic base" 
+            placeholder="e.g Vodka" 
         />
         <button className='bg-neutral-800 border border-neutral-900 px-12 py-4 rounded-full w-[16rem] mx-auto lg:w-auto lg:mx-0 xl:hover:bg-neutral-600' onClick={getDrinks}>Get Drinks</button>
       </div>
