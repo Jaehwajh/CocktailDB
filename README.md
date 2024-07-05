@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cocktail DB Web App
 
-## Getting Started
+<p>
+A small web application cataloging many different cocktails.
+<br>
+Just search for an alcoholic base, and get a list of every cocktail that contains that ingredient.
+</p>
 
-First, run the development server:
+**Link Coming Soon**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## A Brief History
+<p>
+I decided to create this small application to better understand API fetch requests using NEXT.js. Normally, I would have just made this project using standard HTML, CSS, and JavaScript, but I decided to use NEXT.js since I've been learning and using this framework recently.
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technology Used
+<h3>Frontend</h3>
+<p>
+  HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h3>Backend</h3>
+<p>
+  Cocktail DB API, React.js
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<h3>Framework</h3>
+<p>
+  NEXT.js
+</p>
 
-## Learn More
+## Optimizations
+<p>
+1. Accessibility:
+   - Instead of showcasing every cocktail in a grid, give users the option to view in list mode.
 
-To learn more about Next.js, take a look at the following resources:
+2. UI/UX Design:
+   - Provide users with the option to view the web application in Light mode or Dark mode. Currently, the design is leaning more towards Dark mode.
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Future Implementations
+<p>
+  - Add more search/filter options.
+  - Use a different database that is maintained more frequently.
+</p>
