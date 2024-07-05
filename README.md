@@ -31,11 +31,12 @@ I decided to create this small application to better understand API fetch reques
 
 ## Optimizations
 <p>
+  
 1. Accessibility:
-   - Instead of showcasing every cocktail in a grid, give users the option to view in list mode.
+- Instead of showcasing every cocktail in a grid, give users the option to view in list mode.
 
 2. UI/UX Design:
-   - Provide users with the option to view the web application in Light mode or Dark mode. Currently, the design is leaning more towards Dark mode.
+- Provide users with the option to view the web application in Light mode or Dark mode. Currently, the design is leaning more towards Dark mode.
 </p>
 
 ## Future Implementations
